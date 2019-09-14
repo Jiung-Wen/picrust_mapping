@@ -9,7 +9,7 @@ add_descriptions.py -i pathways_out/path_abun_unstrat.tsv
 
 The ```top level``` of MetaCyc pathway looks like [this](https://metacyc.org/META/class-tree?object=Pathways), while the ```second level``` is the child classes of the top classes.
 
-Though this level may not be analogous to KEGG's BRITE hierarchy, it gives me a quick insight of the predictedd pathways.
+Though this level may not be analogous to KEGG's BRITE hierarchy, it gives me a quick insight of the predicted pathways.
 
 Please note that some pathways belong to more than one class. For example, pathway [PWY-7013](https://metacyc.org/META/NEW-IMAGE?type=PATHWAY&object=PWY-7013) belongs to both **Degradation/Utilization/Assimilation** and **Generation of Precursor Metabolite and Energy** classes. However, I was not aware of this by the time I create the mapfiles. So always check the MetaCyc website if you have any question.
 
