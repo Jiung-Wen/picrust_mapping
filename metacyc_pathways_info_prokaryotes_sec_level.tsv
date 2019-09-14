@@ -1,0 +1,1635 @@
+12DICHLORETHDEG-PWY	Chlorinated Compound Degradation
+14DICHLORBENZDEG-PWY	Chlorinated Compound Degradation
+1CMET2-PWY	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+2AMINOBENZDEG-PWY	Aromatic Compound Degradation
+2ASDEG-PWY	Aromatic Compound Degradation
+2OXOBUTYRATECAT-PWY	Carboxylate Degradation
+2PHENDEG-PWY	Aromatic Compound Degradation
+3-HYDROXYPHENYLACETATE-DEGRADATION-PWY	Aromatic Compound Degradation
+4-HYDROXYMANDELATE-DEGRADATION-PWY	Aromatic Compound Degradation
+4AMINOBUTMETAB-PWY	Amine and Polyamine Degradation
+4TOLCARBDEG-PWY	Aromatic Compound Degradation
+6-HYDROXYCINEOLE-DEGRADATION-PWY	Secondary Metabolite Degradation
+ACETATEUTIL-PWY	Carboxylate Degradation
+ACETOACETATE-DEG-PWY	Fatty Acid and Lipid Degradation
+AEROBACTINSYN-PWY	Secondary Metabolite Biosynthesis
+ALACAT2-PWY	Amino Acid Degradation
+ALADEG-PWY	Amino Acid Degradation
+ALANINE-SYN2-PWY	Amino Acid Biosynthesis
+ALANINE-VALINESYN-PWY	Amino Acid Biosynthesis
+ALKANEMONOX-PWY	Inorganic Nutrient Metabolism
+ALL-CHORISMATE-PWY	superpathway of chorismate metabolism
+AMMASSIM-PWY	Inorganic Nutrient Metabolism
+AMMOXID-PWY	Inorganic Nutrient Metabolism
+ANAEROFRUCAT-PWY	Fermentation
+ANAGLYCOLYSIS-PWY	Glycolysis
+ANAPHENOXI-PWY	Amino Acid Degradation
+ARABCAT-PWY	Carbohydrate Degradation
+ARG+POLYAMINE-SYN	Amine and Polyamine Biosynthesis
+ARG-GLU-PWY	Amino Acid Degradation
+ARG-PRO-PWY	Amino Acid Degradation
+ARGASEDEG-PWY	Amino Acid Degradation
+ARGDEG-III-PWY	Amino Acid Degradation
+ARGDEG-IV-PWY	Amino Acid Degradation
+ARGDEG-PWY	Amino Acid Degradation
+ARGDEG-V-PWY	Amino Acid Degradation
+ARGDEGRAD-PWY	Amino Acid Degradation
+ARGORNPROST-PWY	Amino Acid Degradation
+ARGSPECAT-PWY	Amine and Polyamine Biosynthesis
+ARGSYN-PWY	Amino Acid Biosynthesis
+ARGSYNBSUB-PWY	Amino Acid Biosynthesis
+ARO-PWY	Aromatic Compound Biosynthesis
+ASPARAGINE-BIOSYNTHESIS	Amino Acid Biosynthesis
+ASPARAGINE-DEG1-PWY	Amino Acid Degradation
+ASPARAGINESYN-PWY	Amino Acid Biosynthesis
+ASPARTATE-DEG1-PWY	Amino Acid Degradation
+ASPARTATESYN-PWY	Amino Acid Biosynthesis
+ASPASN-PWY	Amino Acid Biosynthesis
+AST-PWY	Amino Acid Degradation
+BENZCOA-PWY	Aromatic Compound Degradation
+BETSYN-PWY	Amine and Polyamine Biosynthesis
+BGALACT-PWY	Carbohydrate Degradation
+BIOTIN-BIOSYNTHESIS-PWY	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+BRANCHED-CHAIN-AA-SYN-PWY	Amino Acid Biosynthesis
+BSUBPOLYAMSYN-PWY	Amine and Polyamine Biosynthesis
+CALVIN-PWY	C1 Compound Utilization and Assimilation
+CARNMET-PWY	Amine and Polyamine Degradation
+CAROTENOID-PWY	Secondary Metabolite Biosynthesis
+CATECHOL-ORTHO-CLEAVAGE-PWY	Aromatic Compound Degradation
+CENTBENZCOA-PWY	Aromatic Compound Degradation
+CENTFERM-PWY	Fermentation
+CHLOROPHYLL-SYN	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+CHOLINE-BETAINE-ANA-PWY	Amine and Polyamine Degradation
+CITRULLINE-DEG-PWY	Amino Acid Degradation
+CO2FORM-PWY	Respiration
+COA-PWY	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+COBALSYN-PWY	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+CODH-PWY	C1 Compound Utilization and Assimilation
+COLANSYN-PWY	Carbohydrate Biosynthesis
+COMPLETE-ARO-PWY	Amino Acid Biosynthesis
+CRNFORCAT-PWY	Amine and Polyamine Degradation
+CYANCAT-PWY	Inorganic Nutrient Metabolism
+CYCLOHEXANOL-OXIDATION-PWY	Alcohol Degradation
+CYSTSYN-PWY	Amino Acid Biosynthesis
+DAPLYSINESYN-PWY	Amino Acid Biosynthesis
+DARABCAT-PWY	Carbohydrate Degradation
+DARABCATK12-PWY	Carbohydrate Degradation
+DARABITOLUTIL-PWY	Secondary Metabolite Degradation
+DENITRIFICATION-PWY	Inorganic Nutrient Metabolism
+DENOVOPURINE2-PWY	Nucleoside and Nucleotide Biosynthesis
+DESULFONATION-PWY	Aromatic Compound Degradation
+DETOX1-PWY	Reactive Oxygen Specie Degradation
+DETOX1-PWY-1	Reactive Oxygen Specie Degradation
+DHGLUCONATE-PYR-CAT-PWY	Secondary Metabolite Degradation
+DISSULFRED-PWY	Inorganic Nutrient Metabolism
+DTDPRHAMSYN-PWY	Carbohydrate Biosynthesis
+ECASYN-PWY	Cell Structure Biosynthesis
+ENTBACSYN-PWY	Secondary Metabolite Biosynthesis
+ENTNER-DOUDOROFF-PWY	Carbohydrate Degradation
+ETOH-ACETYLCOA-ANA-PWY	Alcohol Degradation
+FAO-PWY	Fatty Acid and Lipid Degradation
+FASYN-ELONG-PWY	Fatty Acid and Lipid Biosynthesis
+FASYN-INITIAL-PWY	Fatty Acid and Lipid Biosynthesis
+FERMENTATION-PWY	Fermentation
+FESULFOX-PWY	Inorganic Nutrient Metabolism
+FLUORENE-DEG-9-ONE-PWY	Aromatic Compound Degradation
+FOLSYN-PWY	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+FORMASS-PWY	C1 Compound Utilization and Assimilation
+FUC-RHAMCAT-PWY	superpathway of fucose and rhamnose degradation
+FUCCAT-PWY	Carbohydrate Degradation
+GALACT-GLUCUROCAT-PWY	superpathway of hexuronide and hexuronate degradation
+GALACTARDEG-PWY	Secondary Metabolite Degradation
+GALACTCAT-PWY	Secondary Metabolite Degradation
+GALACTITOLCAT-PWY	Secondary Metabolite Degradation
+GALACTUROCAT-PWY	Secondary Metabolite Degradation
+GALDEG-PWY	Carbohydrate Degradation
+GALLATE-DEGRADATION-I-PWY	Aromatic Compound Degradation
+GALLATE-DEGRADATION-II-PWY	Aromatic Compound Degradation
+GAMMAHEXCHLORDEG-PWY	Chlorinated Compound Degradation
+GDPRHAMSYN-PWY	Carbohydrate Biosynthesis
+GLCMANNANAUT-PWY	Amine and Polyamine Degradation
+GLNSYN-PWY	Inorganic Nutrient Metabolism
+GLUAMCAT-PWY	Secondary Metabolite Degradation
+GLUCARDEG-PWY	Secondary Metabolite Degradation
+GLUCARGALACTSUPER-PWY	superpathway of D-glucarate and D-galactarate degradation
+GLUCONEO-PWY	Carbohydrate Biosynthesis
+GLUCONSUPER-PWY	Carboxylate Degradation
+GLUCOSE1PMETAB-PWY	Carbohydrate Degradation
+GLUCUROCAT-PWY	Secondary Metabolite Degradation
+GLUDEG-II-PWY	Fermentation
+GLUT-REDOX-PWY	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+GLUTAMATE-DEG1-PWY	Amino Acid Degradation
+GLUTAMATE-SYN2-PWY	Amino Acid Biosynthesis
+GLUTAMINDEG-PWY	Amino Acid Degradation
+GLUTAMINEFUM-PWY	Amino Acid Degradation
+GLUTATHIONESYN-PWY	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+GLUTDEG-PWY	Amino Acid Degradation
+GLUTORN-PWY	Amino Acid Biosynthesis
+GLUTSYN-PWY	Amino Acid Biosynthesis
+GLUTSYNIII-PWY	Amino Acid Biosynthesis
+GLYCEROLMETAB-PWY	Alcohol Degradation
+GLYCLEAV-PWY	Amino Acid Degradation
+GLYCOCAT-PWY	Polymeric Compound Degradation
+GLYCOGENSYNTH-PWY	Glycan Biosynthesis
+GLYCOL-GLYOXDEG-PWY	Alcohol Degradation
+GLYCOLATEMET-PWY	Carboxylate Degradation
+GLYCOLYSIS	Glycolysis
+GLYCOLYSIS-E-D	superpathway of glycolysis and the Entner-Doudoroff pathway
+GLYCOLYSIS-TCA-GLYOX-BYPASS	"superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass"
+GLYOXDEG-PWY	Carboxylate Degradation
+GLYOXYLATE-BYPASS	glyoxylate cycle
+GLYSYN-ALA-PWY	Amino Acid Biosynthesis
+GLYSYN-PWY	Amino Acid Biosynthesis
+GOLPDLCAT-PWY	Alcohol Degradation
+HCAMHPDEG-PWY	Aromatic Compound Degradation
+HEME-BIOSYNTHESIS-II	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+HEMESYN2-PWY	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+HEXITOLDEGSUPER-PWY	Secondary Metabolite Degradation
+HEXPPSYN-PWY	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+HISDEG-PWY	Amino Acid Degradation
+HISTDEG-PWY	Amino Acid Degradation
+HISTSYN-PWY	Amino Acid Biosynthesis
+HOMOCYSDEGR-PWY	Amino Acid Degradation
+HOMOSER-METSYN-PWY	Amino Acid Biosynthesis
+HOMOSER-THRESYN-PWY	Amino Acid Biosynthesis
+HOMOSERSYN-PWY	Amino Acid Biosynthesis
+HSERMETANA-PWY	Amino Acid Biosynthesis
+IDNCAT-PWY	Secondary Metabolite Degradation
+ILEUDEG-PWY	Amino Acid Degradation
+ILEUSYN-PWY	Amino Acid Biosynthesis
+KDO-LIPASYN-PWY	Fatty Acid and Lipid Biosynthesis
+KDO-NAGLIPASYN-PWY	Cell Structure Biosynthesis
+KDOSYN-PWY	Cell Structure Biosynthesis
+KETOGLUCONMET-PWY	Secondary Metabolite Degradation
+LACTOSECAT-PWY	Carbohydrate Degradation
+LACTOSEUTIL-PWY	Carbohydrate Degradation
+LARABITOLUTIL-PWY	Secondary Metabolite Degradation
+LCYSDEG-PWY	Amino Acid Degradation
+LEU-DEG2-PWY	Amino Acid Degradation
+LEUSYN-PWY	Amino Acid Biosynthesis
+LIPA-CORESYN-PWY	Carbohydrate Biosynthesis
+LIPAS-PWY	Fatty Acid and Lipid Degradation
+LIPASYN-PWY	Fatty Acid and Lipid Degradation
+LPSSYN-PWY	Fatty Acid and Lipid Biosynthesis
+LYXMET-PWY	Carbohydrate Degradation
+M-CRESOL-DEGRADATION-PWY	Aromatic Compound Degradation
+MALTOSECAT-PWY	Carbohydrate Degradation
+MANNCAT-PWY	Carbohydrate Degradation
+MANNIDEG-PWY	Secondary Metabolite Degradation
+MENAQUINONESYN-PWY	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+MET-SAM-PWY	superpathway of S-adenosyl-L-methionine biosynthesis
+METH-ACETATE-PWY	Respiration
+METHANOGENESIS-PWY	Respiration
+METHFORM-PWY	Respiration
+METHGLYUT-PWY	Aldehyde Degradation
+METHIONINE-DEG1-PWY	Amino Acid Degradation
+METHYLGALLATE-DEGRADATION-PWY	Aromatic Compound Degradation
+N2FIX-PWY	Inorganic Nutrient Metabolism
+NAD-BIOSYNTHESIS-II	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+NAD-BIOSYNTHESIS-III	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+NADPHOS-DEPHOS-PWY	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+NADPHOS-DEPHOS-PWY-1	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+NADSYN-PWY	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+NAGLIPASYN-PWY	Cell Structure Biosynthesis
+NONMEVIPP-PWY	Secondary Metabolite Biosynthesis
+NONOXIPENT-PWY	Pentose Phosphate Pathways
+NOPALINEDEG-PWY	Secondary Metabolite Degradation
+NPGLUCAT-PWY	Carbohydrate Degradation
+OANTIGEN-PWY	Carbohydrate Biosynthesis
+OCTOPINEDEG-PWY	Secondary Metabolite Degradation
+ORN-AMINOPENTANOATE-CAT-PWY	Amino Acid Biosynthesis
+ORNARGDEG-PWY	Amino Acid Degradation
+ORNDEG-PWY	Amine and Polyamine Degradation
+OXIDATIVEPENT-PWY	Pentose Phosphate Pathways
+P101-PWY	Amine and Polyamine Biosynthesis
+P105-PWY	TCA cycle
+P108-PWY	Fermentation
+P121-PWY	Nucleoside and Nucleotide Biosynthesis
+P122-PWY	Fermentation
+P124-PWY	Fermentation
+P125-PWY	Fermentation
+P141-PWY	Aromatic Compound Degradation
+P142-PWY	Fermentation
+P161-PWY	Fermentation
+P162-PWY	Fermentation
+P163-PWY	Fermentation
+P164-PWY	Nucleoside and Nucleotide Degradation
+P181-PWY	Degradation/Utilization/Assimilation - Other
+P183-PWY	Aromatic Compound Degradation
+P184-PWY	Aromatic Compound Degradation
+P2-PWY	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+P201-PWY	Degradation/Utilization/Assimilation - Other
+P203-PWY	Inorganic Nutrient Metabolism
+P21-PWY	Pentose Phosphate Pathways
+P221-PWY	Degradation/Utilization/Assimilation - Other
+P222-PWY	Inorganic Nutrient Metabolism
+P224-PWY	Inorganic Nutrient Metabolism
+P23-PWY	C1 Compound Utilization and Assimilation
+P241-PWY	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+P261-PWY	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+P281-PWY	Aromatic Compound Degradation
+P282-PWY	Electron Transfer
+P283-PWY	Chemoautotrophic Energy Metabolism
+P3-PWY	Aromatic Compound Degradation
+P301-PWY	Chemoautotrophic Energy Metabolism
+P302-PWY	Carbohydrate Degradation
+P303-PWY	Inorganic Nutrient Metabolism
+P321-PWY	Aromatic Compound Degradation
+P341-PWY	Glycolysis
+P342-PWY	Aromatic Compound Degradation
+P343-PWY	Aromatic Compound Degradation
+P344-PWY	Degradation/Utilization/Assimilation - Other
+P345-PWY	Aromatic Compound Degradation
+P381-PWY	adenosylcobalamin biosynthesis II (aerobic)
+P4-PWY	Amino Acid Biosynthesis
+P401-PWY	Degradation/Utilization/Assimilation - Other
+P41-PWY	Fermentation
+P42-PWY	C1 Compound Utilization and Assimilation
+P421-PWY	Aromatic Compound Degradation
+P441-PWY	Carboxylate Degradation
+P461-PWY	Fermentation
+P481-PWY	Degradation/Utilization/Assimilation - Other
+P482-PWY	Degradation/Utilization/Assimilation - Other
+P483-PWY	Inorganic Nutrient Metabolism
+P541-PWY	Amine and Polyamine Biosynthesis
+P542-PWY	Amine and Polyamine Degradation
+P561-PWY	Amine and Polyamine Degradation
+P562-PWY	Secondary Metabolite Degradation
+P581-PWY	Degradation/Utilization/Assimilation - Other
+P601-PWY	Secondary Metabolite Degradation
+P621-PWY	Degradation/Utilization/Assimilation - Other
+P641-PWY	Mercury Detoxification
+P661-PWY	Aromatic Compound Degradation
+P662-PWY	Aromatic Compound Degradation
+PANTO-PWY	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PANTOSYN-PWY	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PARATHION-DEGRADATION-PWY	Aromatic Compound Degradation
+PCEDEG-PWY	Chlorinated Compound Degradation
+PCPDEG-PWY	Chlorinated Compound Degradation
+PENTOSE-P-PWY	Pentose Phosphate Pathways
+PEPTIDOGLYCANSYN-PWY	Cell Structure Biosynthesis
+PHENOLDEG-PWY	Aromatic Compound Degradation
+PHENYLALANINE-DEG1-PWY	Amino Acid Degradation
+PHESYN	Amino Acid Biosynthesis
+PHOSLIPSYN-PWY	Fatty Acid and Lipid Biosynthesis
+PHOSPHONOTASE-PWY	Inorganic Nutrient Metabolism
+PHOTOALL-PWY	Photosynthesis
+PLPSAL-PWY	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+POLYAMINSYN3-PWY	Amine and Polyamine Biosynthesis
+POLYAMSYN-PWY	Amine and Polyamine Biosynthesis
+POLYISOPRENSYN-PWY	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PPGPPMET-PWY	Metabolic Regulator Biosynthesis
+PROPFERM-PWY	Fermentation
+PROPIONMET-PWY	Carboxylate Degradation
+PROSYN-PWY	Amino Acid Biosynthesis
+PROTOCATECHUATE-ORTHO-CLEAVAGE-PWY	Aromatic Compound Degradation
+PROUT-PWY	Amino Acid Degradation
+PRPP-PWY	"superpathway of histidine, purine, and pyrimidine biosynthesis"
+PUTDEG-PWY	Amine and Polyamine Degradation
+PWY-1001	Cell Structure Biosynthesis
+PWY-101	Photosynthesis
+PWY-102	Hormone Degradation
+PWY-116	Aromatic Compound Degradation
+PWY-1164	Degradation/Utilization/Assimilation - Other
+PWY-1263	Inorganic Nutrient Metabolism
+PWY-1264	Inorganic Nutrient Metabolism
+PWY-1269	Carbohydrate Biosynthesis
+PWY-1281	Inorganic Nutrient Metabolism
+PWY-1341	Aromatic Compound Degradation
+PWY-1361	Aromatic Compound Degradation
+PWY-1381	Aromatic Compound Degradation
+PWY-142	Aromatic Compound Degradation
+PWY-1422	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-1501	Aromatic Compound Degradation
+PWY-1541	Inorganic Nutrient Metabolism
+PWY-1622	C1 Compound Utilization and Assimilation
+PWY-1641	C1 Compound Utilization and Assimilation
+PWY-1701	C1 Compound Utilization and Assimilation
+PWY-1722	C1 Compound Utilization and Assimilation
+PWY-1723	C1 Compound Utilization and Assimilation
+PWY-1781	Amino Acid Degradation
+PWY-1801	C1 Compound Utilization and Assimilation
+PWY-181	Photosynthesis
+PWY-1861	C1 Compound Utilization and Assimilation
+PWY-1881	Chemoautotrophic Energy Metabolism
+PWY-1882	C1 Compound Utilization and Assimilation
+PWY-2	Amine and Polyamine Degradation
+PWY-2161	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-2201	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-2221	Carbohydrate Degradation
+PWY-2242	Inorganic Nutrient Metabolism
+PWY-2261	Reactive Oxygen Specie Degradation
+PWY-2301	Secondary Metabolite Biosynthesis
+PWY-2361	Carboxylate Degradation
+PWY-2381	Aromatic Compound Degradation
+PWY-2421	Hormone Degradation
+PWY-2503	Aromatic Compound Degradation
+PWY-2504	Aromatic Compound Degradation
+PWY-2601	Inorganic Nutrient Metabolism
+PWY-2622	Metabolic Regulator Biosynthesis
+PWY-2661	Metabolic Regulator Biosynthesis
+PWY-2721	Carbohydrate Degradation
+PWY-2722	Carbohydrate Degradation
+PWY-283	Aromatic Compound Degradation
+PWY-2941	Amino Acid Biosynthesis
+PWY-2942	Amino Acid Biosynthesis
+PWY-3	Amine and Polyamine Degradation
+PWY-3001	Amino Acid Biosynthesis
+PWY-301	Carboxylate Degradation
+PWY-3081	Amino Acid Biosynthesis
+PWY-3161	Hormone Biosynthesis
+PWY-3162	Amino Acid Degradation
+PWY-3181	Amino Acid Degradation
+PWY-3461	Amino Acid Biosynthesis
+PWY-3462	Amino Acid Biosynthesis
+PWY-3561	Amine and Polyamine Biosynthesis
+PWY-3602	Amine and Polyamine Degradation
+PWY-3621	Amine and Polyamine Degradation
+PWY-3641	Amine and Polyamine Degradation
+PWY-3661	Amine and Polyamine Degradation
+PWY-3721	Amine and Polyamine Degradation
+PWY-3722	Amine and Polyamine Biosynthesis
+PWY-3781	Respiration
+PWY-3801	Carbohydrate Degradation
+PWY-3941	Amino Acid Biosynthesis
+PWY-3982	Nucleoside and Nucleotide Degradation
+PWY-4	Carbohydrate Biosynthesis
+PWY-40	Amine and Polyamine Biosynthesis
+PWY-4081	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-4101	Secondary Metabolite Degradation
+PWY-4121	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-4181	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-4261	Alcohol Degradation
+PWY-43	Amine and Polyamine Biosynthesis
+PWY-4341	Amino Acid Biosynthesis
+PWY-4361	Amino Acid Biosynthesis
+PWY-4381	Fatty Acid and Lipid Biosynthesis
+PWY-4521	Respiration
+PWY-46	Amine and Polyamine Biosynthesis
+PWY-4601	Respiration
+PWY-4621	Arsenate Detoxification
+PWY-4722	Amine and Polyamine Degradation
+PWY-4741	Amine and Polyamine Degradation
+PWY-481	Aromatic Compound Degradation
+PWY-4821	Carbohydrate Biosynthesis
+PWY-4861	Carbohydrate Biosynthesis
+PWY-4921	Amino Acid Biosynthesis
+PWY-4984	Inorganic Nutrient Metabolism
+PWY-5005	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5022	Fermentation
+PWY-5024	Amino Acid Degradation
+PWY-5025	Hormone Biosynthesis
+PWY-5026	Hormone Biosynthesis
+PWY-5027	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5028	Amino Acid Degradation
+PWY-5029	Amino Acid Biosynthesis
+PWY-5033	Aromatic Compound Degradation
+PWY-5041	Amino Acid Biosynthesis
+PWY-5046	Respiration
+PWY-5052	Secondary Metabolite Biosynthesis
+PWY-5053	Secondary Metabolite Biosynthesis
+PWY-5055	Aromatic Compound Degradation
+PWY-5057	Amino Acid Degradation
+PWY-5062	Aromatic Compound Degradation
+PWY-5063	Secondary Metabolite Biosynthesis
+PWY-5068	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5074	Carboxylate Degradation
+PWY-5075	Amino Acid Degradation
+PWY-5080	Fatty Acid and Lipid Biosynthesis
+PWY-5084	Respiration
+PWY-5086	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5087	Amino Acid Degradation
+PWY-5088	Fermentation
+PWY-5096	Fermentation
+PWY-5097	Amino Acid Biosynthesis
+PWY-5100	Fermentation
+PWY-5101	Amino Acid Biosynthesis
+PWY-5103	Amino Acid Biosynthesis
+PWY-5104	Amino Acid Biosynthesis
+PWY-5108	Amino Acid Biosynthesis
+PWY-5120	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5121	Secondary Metabolite Biosynthesis
+PWY-5122	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5123	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5130	Carboxylate Degradation
+PWY-5137	Fatty Acid and Lipid Degradation
+PWY-5142	Fatty Acid and Lipid Biosynthesis
+PWY-5143	Fatty Acid and Lipid Biosynthesis
+PWY-5148	Fatty Acid and Lipid Biosynthesis
+PWY-5151	Amino Acid Degradation
+PWY-5154	Amino Acid Biosynthesis
+PWY-5155	Amino Acid Biosynthesis
+PWY-5159	Amino Acid Degradation
+PWY-5162	Carboxylate Degradation
+PWY-5163	Aromatic Compound Degradation
+PWY-5165	Aromatic Compound Degradation
+PWY-5169	Aromatic Compound Degradation
+PWY-5170	Aromatic Compound Degradation
+PWY-5171	Aromatic Compound Degradation
+PWY-5177	Carboxylate Degradation
+PWY-5178	Aromatic Compound Degradation
+PWY-5179	Aromatic Compound Degradation
+PWY-5180	Aromatic Compound Degradation
+PWY-5181	Aromatic Compound Degradation
+PWY-5182	Aromatic Compound Degradation
+PWY-5183	Aromatic Compound Degradation
+PWY-5184	Aromatic Compound Degradation
+PWY-5188	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5189	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5194	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5196	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5197	lactate biosynthesis (archaea)
+PWY-5198	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5199	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5207	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5209	Respiration
+PWY-5247	Respiration
+PWY-5248	Respiration
+PWY-5250	Respiration
+PWY-5254	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5257	Secondary Metabolite Degradation
+PWY-5258	Respiration
+PWY-5259	Respiration
+PWY-5260	Respiration
+PWY-5261	Respiration
+PWY-5265	Cell Structure Biosynthesis
+PWY-5266	Aromatic Compound Degradation
+PWY-5273	Aromatic Compound Degradation
+PWY-5274	Inorganic Nutrient Metabolism
+PWY-5276	Inorganic Nutrient Metabolism
+PWY-5277	Inorganic Nutrient Metabolism
+PWY-5278	Inorganic Nutrient Metabolism
+PWY-5279	Inorganic Nutrient Metabolism
+PWY-5280	Amino Acid Degradation
+PWY-5283	Amino Acid Degradation
+PWY-5285	Inorganic Nutrient Metabolism
+PWY-5288	Secondary Metabolite Biosynthesis
+PWY-5294	Inorganic Nutrient Metabolism
+PWY-5296	Inorganic Nutrient Metabolism
+PWY-5297	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5298	Amino Acid Degradation
+PWY-5302	Inorganic Nutrient Metabolism
+PWY-5303	Inorganic Nutrient Metabolism
+PWY-5304	Inorganic Nutrient Metabolism
+PWY-5306	Inorganic Nutrient Metabolism
+PWY-5308	Inorganic Nutrient Metabolism
+PWY-5314	Amino Acid Degradation
+PWY-5327	Amino Acid Degradation
+PWY-5331	Secondary Metabolite Biosynthesis
+PWY-5332	Inorganic Nutrient Metabolism
+PWY-5335	Inorganic Nutrient Metabolism
+PWY-5336	Degradation/Utilization/Assimilation - Other
+PWY-5340	Inorganic Nutrient Metabolism
+PWY-5344	Amino Acid Biosynthesis
+PWY-5345	Amino Acid Biosynthesis
+PWY-5347	Amino Acid Biosynthesis
+PWY-5350	Inorganic Nutrient Metabolism
+PWY-5352	Inorganic Nutrient Metabolism
+PWY-5358	Inorganic Nutrient Metabolism
+PWY-5359	Inorganic Nutrient Metabolism
+PWY-5360	Inorganic Nutrient Metabolism
+PWY-5364	Inorganic Nutrient Metabolism
+PWY-5366	Fatty Acid and Lipid Biosynthesis
+PWY-5370	Chlorinated Compound Degradation
+PWY-5372	Chlorinated Compound Degradation
+PWY-5382	Chemoautotrophic Energy Metabolism
+PWY-5384	Carbohydrate Degradation
+PWY-5386	Aldehyde Degradation
+PWY-5389	Secondary Metabolite Biosynthesis
+PWY-5392	C1 Compound Utilization and Assimilation
+PWY-5415	Aromatic Compound Degradation
+PWY-5417	Aromatic Compound Degradation
+PWY-5418	Aromatic Compound Degradation
+PWY-5419	Aromatic Compound Degradation
+PWY-5420	Aromatic Compound Degradation
+PWY-5427	Aromatic Compound Degradation
+PWY-5428	Aromatic Compound Degradation
+PWY-5429	Aromatic Compound Degradation
+PWY-5430	Aromatic Compound Degradation
+PWY-5431	Aromatic Compound Degradation
+PWY-5436	Amino Acid Degradation
+PWY-5437	Amino Acid Degradation
+PWY-5443	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5450	Aromatic Compound Degradation
+PWY-5453	Aldehyde Degradation
+PWY-5456	Aldehyde Degradation
+PWY-5459	Aldehyde Degradation
+PWY-5480	Fermentation
+PWY-5481	Fermentation
+PWY-5482	Fermentation
+PWY-5483	Fermentation
+PWY-5484	Glycolysis
+PWY-5485	Fermentation
+PWY-5486	Fermentation
+PWY-5487	Aromatic Compound Degradation
+PWY-5488	Aromatic Compound Degradation
+PWY-5489	Aromatic Compound Degradation
+PWY-5490	Aromatic Compound Degradation
+PWY-5491	Inorganic Nutrient Metabolism
+PWY-5493	C1 Compound Utilization and Assimilation
+PWY-5494	Fermentation
+PWY-5497	Nucleoside and Nucleotide Degradation
+PWY-5499	"Cofactor, Prosthetic Group, Electron Carrier Degradation"
+PWY-5505	Amino Acid Biosynthesis
+PWY-5507	adenosylcobalamin biosynthesis I (anaerobic)
+PWY-5509	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5512	Carbohydrate Biosynthesis
+PWY-5517	Carbohydrate Degradation
+PWY-5519	Carbohydrate Degradation
+PWY-5521	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5523	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5526	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5529	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5530	Secondary Metabolite Biosynthesis
+PWY-5531	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5532	Nucleoside and Nucleotide Degradation
+PWY-5533	Fatty Acid and Lipid Degradation
+PWY-5534	Carbohydrate Degradation
+PWY-5535	Fermentation
+PWY-5629	Secondary Metabolite Biosynthesis
+PWY-5631	Secondary Metabolite Biosynthesis
+PWY-5633	Secondary Metabolite Biosynthesis
+PWY-5634	Secondary Metabolite Biosynthesis
+PWY-5636	Aromatic Compound Degradation
+PWY-5637	Aromatic Compound Degradation
+PWY-5640	Aromatic Compound Degradation
+PWY-5641	Aromatic Compound Degradation
+PWY-5642	Aromatic Compound Degradation
+PWY-5643	Aromatic Compound Degradation
+PWY-5644	Aromatic Compound Degradation
+PWY-5645	Aromatic Compound Degradation
+PWY-5647	Aromatic Compound Degradation
+PWY-5648	Aromatic Compound Degradation
+PWY-5651	Amino Acid Degradation
+PWY-5653	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5654	Carboxylate Degradation
+PWY-5655	Amino Acid Degradation
+PWY-5656	Metabolic Regulator Biosynthesis
+PWY-5658	Metabolic Regulator Biosynthesis
+PWY-5659	Carbohydrate Biosynthesis
+PWY-5661	Carbohydrate Biosynthesis
+PWY-5662	Metabolic Regulator Biosynthesis
+PWY-5663	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5667	Fatty Acid and Lipid Biosynthesis
+PWY-5668	Fatty Acid and Lipid Biosynthesis
+PWY-5669	Fatty Acid and Lipid Biosynthesis
+PWY-5670	Secondary Metabolite Biosynthesis
+PWY-5674	Inorganic Nutrient Metabolism
+PWY-5675	Inorganic Nutrient Metabolism
+PWY-5676	Fermentation
+PWY-5677	Fermentation
+PWY-5679	Secondary Metabolite Biosynthesis
+PWY-5686	Nucleoside and Nucleotide Biosynthesis
+PWY-5691	Aromatic Compound Degradation
+PWY-5694	Amine and Polyamine Degradation
+PWY-5695	Nucleoside and Nucleotide Degradation
+PWY-5697	Amine and Polyamine Degradation
+PWY-5698	Amine and Polyamine Degradation
+PWY-5703	Amine and Polyamine Degradation
+PWY-5704	Amine and Polyamine Degradation
+PWY-5705	Amine and Polyamine Degradation
+PWY-5724	Aromatic Compound Degradation
+PWY-5726	Aromatic Compound Degradation
+PWY-5727	Aromatic Compound Degradation
+PWY-5731	Aromatic Compound Degradation
+PWY-5736	Amine and Polyamine Degradation
+PWY-5737	Secondary Metabolite Biosynthesis
+PWY-5738	Carbohydrate Biosynthesis
+PWY-5739	Carbohydrate Biosynthesis
+PWY-5740	Carbohydrate Biosynthesis
+PWY-5741	ethylmalonyl-CoA pathway
+PWY-5742	Amino Acid Degradation
+PWY-5743	C1 Compound Utilization and Assimilation
+PWY-5744	C1 Compound Utilization and Assimilation
+PWY-5747	Carboxylate Degradation
+PWY-5749	Carboxylate Degradation
+PWY-5751	Secondary Metabolite Biosynthesis
+PWY-5755	Aromatic Compound Biosynthesis
+PWY-5757	Secondary Metabolite Biosynthesis
+PWY-5766	Amino Acid Degradation
+PWY-5770	Secondary Metabolite Biosynthesis
+PWY-5776	Secondary Metabolite Biosynthesis
+PWY-5782	Carbohydrate Biosynthesis
+PWY-5783	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5785	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5789	C1 Compound Utilization and Assimilation
+PWY-5794	Carboxylate Degradation
+PWY-5796	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5805	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5806	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5807	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5816	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5817	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5818	Secondary Metabolite Biosynthesis
+PWY-5823	Carbohydrate Biosynthesis
+PWY-5830	Carbohydrate Biosynthesis
+PWY-5831	Carbohydrate Biosynthesis
+PWY-5832	Carbohydrate Biosynthesis
+PWY-5833	Carbohydrate Biosynthesis
+PWY-5834	Carbohydrate Biosynthesis
+PWY-5837	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5838	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5839	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5840	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5844	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5845	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5849	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5850	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5851	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5852	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5853	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5855	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5856	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5857	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5860	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5861	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5862	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5863	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5875	Secondary Metabolite Biosynthesis
+PWY-5885	Fatty Acid and Lipid Biosynthesis
+PWY-5886	Aromatic Compound Biosynthesis
+PWY-5887	Secondary Metabolite Biosynthesis
+PWY-5888	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5890	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5891	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5892	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5893	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5895	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5896	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5897	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5898	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5899	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5901	Aromatic Compound Biosynthesis
+PWY-5903	Secondary Metabolite Biosynthesis
+PWY-5907	Amine and Polyamine Biosynthesis
+PWY-5910	Secondary Metabolite Biosynthesis
+PWY-5913	TCA cycle
+PWY-5915	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5917	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5918	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5920	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5921	Aminoacyl-tRNA Charging
+PWY-5922	Secondary Metabolite Degradation
+PWY-5923	Secondary Metabolite Degradation
+PWY-5924	Secondary Metabolite Degradation
+PWY-5927	Secondary Metabolite Degradation
+PWY-5929	Secondary Metabolite Biosynthesis
+PWY-5930	Secondary Metabolite Biosynthesis
+PWY-5935	Secondary Metabolite Biosynthesis
+PWY-5938	Fermentation
+PWY-5939	Fermentation
+PWY-5940	Secondary Metabolite Biosynthesis
+PWY-5941	Polymeric Compound Degradation
+PWY-5942	Secondary Metabolite Biosynthesis
+PWY-5943	Secondary Metabolite Biosynthesis
+PWY-5944	Secondary Metabolite Biosynthesis
+PWY-5945	Secondary Metabolite Biosynthesis
+PWY-5946	Secondary Metabolite Biosynthesis
+PWY-5947	Secondary Metabolite Biosynthesis
+PWY-5950	Secondary Metabolite Biosynthesis
+PWY-5951	Fermentation
+PWY-5963	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5964	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-5965	Fatty Acid and Lipid Biosynthesis
+PWY-5966	Fatty Acid and Lipid Biosynthesis
+PWY-5971	Fatty Acid and Lipid Biosynthesis
+PWY-5972	Fatty Acid and Lipid Biosynthesis
+PWY-5973	Fatty Acid and Lipid Biosynthesis
+PWY-5978	Secondary Metabolite Biosynthesis
+PWY-5979	Secondary Metabolite Biosynthesis
+PWY-5981	Fatty Acid and Lipid Biosynthesis
+PWY-5982	Inorganic Nutrient Metabolism
+PWY-5983	Metabolic Regulator Biosynthesis
+PWY-5984	Secondary Metabolite Biosynthesis
+PWY-5985	Metabolic Regulator Biosynthesis
+PWY-5989	Fatty Acid and Lipid Biosynthesis
+PWY-5993	Secondary Metabolite Biosynthesis
+PWY-5998	Fatty Acid and Lipid Biosynthesis
+PWY-6003	Secondary Metabolite Biosynthesis
+PWY-6004	Amine and Polyamine Biosynthesis
+PWY-6011	Secondary Metabolite Degradation
+PWY-6012	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-6012-1	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-6019	Nucleoside and Nucleotide Degradation
+PWY-6021	Carboxylate Degradation
+PWY-6028	Carbohydrate Degradation
+PWY-6038	Carboxylate Degradation
+PWY-6041	Aromatic Compound Degradation
+PWY-6043	Inorganic Nutrient Metabolism
+PWY-6044	Inorganic Nutrient Metabolism
+PWY-6045	Inorganic Nutrient Metabolism
+PWY-6046	Inorganic Nutrient Metabolism
+PWY-6047	Inorganic Nutrient Metabolism
+PWY-6048	Inorganic Nutrient Metabolism
+PWY-6049	Inorganic Nutrient Metabolism
+PWY-6050	Inorganic Nutrient Metabolism
+PWY-6052	Inorganic Nutrient Metabolism
+PWY-6056	Inorganic Nutrient Metabolism
+PWY-6057	Inorganic Nutrient Metabolism
+PWY-6058	Inorganic Nutrient Metabolism
+PWY-6059	Inorganic Nutrient Metabolism
+PWY-6060	Carboxylate Degradation
+PWY-6069	Secondary Metabolite Biosynthesis
+PWY-6071	Aromatic Compound Degradation
+PWY-6072	Inorganic Nutrient Metabolism
+PWY-6077	Aromatic Compound Degradation
+PWY-6079	Aromatic Compound Degradation
+PWY-6080	Aromatic Compound Degradation
+PWY-6081	Chlorinated Compound Degradation
+PWY-6082	Glycan Biosynthesis
+PWY-6083	Chlorinated Compound Degradation
+PWY-6084	Chlorinated Compound Degradation
+PWY-6085	Chlorinated Compound Degradation
+PWY-6086	Chlorinated Compound Degradation
+PWY-6087	Chlorinated Compound Degradation
+PWY-6088	Chlorinated Compound Degradation
+PWY-6089	Chlorinated Compound Degradation
+PWY-6090	Chlorinated Compound Degradation
+PWY-6091	Chlorinated Compound Degradation
+PWY-6093	Chlorinated Compound Degradation
+PWY-6094	Chlorinated Compound Degradation
+PWY-6095	Secondary Metabolite Biosynthesis
+PWY-6099	Chlorinated Compound Degradation
+PWY-6102	Chlorinated Compound Degradation
+PWY-6103	Chlorinated Compound Degradation
+PWY-6104	Chlorinated Compound Degradation
+PWY-6107	Chlorinated Compound Degradation
+PWY-6113	Fatty Acid and Lipid Biosynthesis
+PWY-6116	Carbohydrate Biosynthesis
+PWY-6120	Amino Acid Biosynthesis
+PWY-6121	Nucleoside and Nucleotide Biosynthesis
+PWY-6122	Nucleoside and Nucleotide Biosynthesis
+PWY-6123	Nucleoside and Nucleotide Biosynthesis
+PWY-6125	Nucleoside and Nucleotide Biosynthesis
+PWY-6126	Nucleoside and Nucleotide Biosynthesis
+PWY-6128	Secondary Metabolite Biosynthesis
+PWY-6130	Fermentation
+PWY-6131	Alcohol Degradation
+PWY-6132	Fatty Acid and Lipid Biosynthesis
+PWY-6139	Carbohydrate Biosynthesis
+PWY-6140	Carbohydrate Biosynthesis
+PWY-6141	Fatty Acid and Lipid Biosynthesis
+PWY-6142	Carbohydrate Biosynthesis
+PWY-6143	Carbohydrate Biosynthesis
+PWY-6145	Carbohydrate Biosynthesis
+PWY-6146	Methanobacterium thermoautotrophicum biosynthetic metabolism
+PWY-6147	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-6148	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-6151	Amino Acid Biosynthesis
+PWY-6153	Secondary Metabolite Biosynthesis
+PWY-6154	Secondary Metabolite Biosynthesis
+PWY-6157	Secondary Metabolite Biosynthesis
+PWY-6160	Aromatic Compound Biosynthesis
+PWY-6163	Aromatic Compound Biosynthesis
+PWY-6164	Aromatic Compound Biosynthesis
+PWY-6165	Aromatic Compound Biosynthesis
+PWY-6167	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-6173	Amine and Polyamine Biosynthesis
+PWY-6174	Secondary Metabolite Biosynthesis
+PWY-6176	Secondary Metabolite Biosynthesis
+PWY-6178	Chlorinated Compound Degradation
+PWY-6182	Aromatic Compound Degradation
+PWY-6183	Aromatic Compound Degradation
+PWY-6184	Aromatic Compound Degradation
+PWY-6185	Aromatic Compound Degradation
+PWY-6190	Chlorinated Compound Degradation
+PWY-6191	Chlorinated Compound Degradation
+PWY-6192	Chlorinated Compound Degradation
+PWY-6193	Chlorinated Compound Degradation
+PWY-6196	Amino Acid Degradation
+PWY-6197	Chlorinated Compound Degradation
+PWY-6200	Chlorinated Compound Degradation
+PWY-621	Carbohydrate Degradation
+PWY-6210	Aromatic Compound Degradation
+PWY-6214	Chlorinated Compound Degradation
+PWY-6215	Chlorinated Compound Degradation
+PWY-6216	Chlorinated Compound Degradation
+PWY-6217	Chlorinated Compound Degradation
+PWY-622	Glycan Biosynthesis
+PWY-6221	Chlorinated Compound Degradation
+PWY-6223	Aromatic Compound Degradation
+PWY-6224	Aromatic Compound Degradation
+PWY-6228	Chlorinated Compound Degradation
+PWY-6262	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-6263	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-6268	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-6269	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-6277	Nucleoside and Nucleotide Biosynthesis
+PWY-6279	Secondary Metabolite Biosynthesis
+PWY-6280	Secondary Metabolite Biosynthesis
+PWY-6281	Amino Acid Biosynthesis
+PWY-6282	Fatty Acid and Lipid Biosynthesis
+PWY-6284	Fatty Acid and Lipid Biosynthesis
+PWY-6285	Fatty Acid and Lipid Biosynthesis
+PWY-6286	Secondary Metabolite Biosynthesis
+PWY-6287	Secondary Metabolite Biosynthesis
+PWY-6288	Secondary Metabolite Biosynthesis
+PWY-6289	Secondary Metabolite Biosynthesis
+PWY-6291	Secondary Metabolite Biosynthesis
+PWY-6292	Amino Acid Biosynthesis
+PWY-6294	Secondary Metabolite Biosynthesis
+PWY-63	Carbohydrate Biosynthesis
+PWY-6308	Amino Acid Biosynthesis
+PWY-6314	Secondary Metabolite Biosynthesis
+PWY-6317	Carbohydrate Degradation
+PWY-6321	Inorganic Nutrient Metabolism
+PWY-6322	Secondary Metabolite Biosynthesis
+PWY-6324	Secondary Metabolite Biosynthesis
+PWY-6327	Respiration
+PWY-6328	Amino Acid Degradation
+PWY-6336	Aromatic Compound Degradation
+PWY-6338	Aromatic Compound Degradation
+PWY-6339	Aromatic Compound Degradation
+PWY-6340	Aromatic Compound Degradation
+PWY-6341	Polymeric Compound Degradation
+PWY-6343	Aromatic Compound Degradation
+PWY-6344	Amino Acid Degradation
+PWY-6345	Secondary Metabolite Biosynthesis
+PWY-6346	Secondary Metabolite Biosynthesis
+PWY-6348	Inorganic Nutrient Metabolism
+PWY-6349	Fatty Acid and Lipid Biosynthesis
+PWY-6350	Fatty Acid and Lipid Biosynthesis
+PWY-6353	Nucleoside and Nucleotide Degradation
+PWY-6373	Carboxylate Degradation
+PWY-6374	Secondary Metabolite Biosynthesis
+PWY-6375	Secondary Metabolite Biosynthesis
+PWY-6376	Secondary Metabolite Biosynthesis
+PWY-6378	Secondary Metabolite Biosynthesis
+PWY-6379	Secondary Metabolite Biosynthesis
+PWY-6381	Secondary Metabolite Biosynthesis
+PWY-6383	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-6385	Cell Structure Biosynthesis
+PWY-6386	Cell Structure Biosynthesis
+PWY-6387	Cell Structure Biosynthesis
+PWY-6388	Alcohol Degradation
+PWY-6389	Fermentation
+PWY-6390	Fermentation
+PWY-6391	Fermentation
+PWY-6392	Fermentation
+PWY-6395	Inorganic Nutrient Metabolism
+PWY-6396	Fermentation
+PWY-6397	Cell Structure Biosynthesis
+PWY-6404	Cell Structure Biosynthesis
+PWY-6406	Aromatic Compound Biosynthesis
+PWY-6407	Secondary Metabolite Biosynthesis
+PWY-6408	Secondary Metabolite Biosynthesis
+PWY-6409	Secondary Metabolite Biosynthesis
+PWY-6412	Secondary Metabolite Degradation
+PWY-6416	Aromatic Compound Degradation
+PWY-6419	Aromatic Compound Degradation
+PWY-6420	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-6421	Arsenate Detoxification
+PWY-6422	Amino Acid Degradation
+PWY-6426	Nucleoside and Nucleotide Degradation
+PWY-6430	Nucleoside and Nucleotide Degradation
+PWY-6454	Antibiotic Resistance
+PWY-6455	Antibiotic Resistance
+PWY-6456	Amine and Polyamine Biosynthesis
+PWY-6457	Secondary Metabolite Biosynthesis
+PWY-6458	Aromatic Compound Biosynthesis
+PWY-6459	Cell Structure Biosynthesis
+PWY-6461	Cell Structure Biosynthesis
+PWY-6462	Cell Structure Biosynthesis
+PWY-6463	Cell Structure Biosynthesis
+PWY-6464	Alcohol Degradation
+PWY-6466	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-6467	Cell Structure Biosynthesis
+PWY-6470	Cell Structure Biosynthesis
+PWY-6471	Cell Structure Biosynthesis
+PWY-6475	Secondary Metabolite Biosynthesis
+PWY-6476	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-6478	Carbohydrate Biosynthesis
+PWY-6481	Other Biosynthesis
+PWY-6482	Amino Acid Biosynthesis
+PWY-6486	Secondary Metabolite Degradation
+PWY-6497	Secondary Metabolite Degradation
+PWY-6498	Other Biosynthesis
+PWY-6499	Secondary Metabolite Degradation
+PWY-6501	Secondary Metabolite Degradation
+PWY-6502	oxidized GTP and dGTP detoxification
+PWY-6504	Aromatic Compound Degradation
+PWY-6505	Amino Acid Degradation
+PWY-6507	Secondary Metabolite Degradation
+PWY-6509	C1 Compound Utilization and Assimilation
+PWY-6510	C1 Compound Utilization and Assimilation
+PWY-6511	Secondary Metabolite Biosynthesis
+PWY-6512	Chemoautotrophic Energy Metabolism
+PWY-6516	Secondary Metabolite Degradation
+PWY-6517	Secondary Metabolite Degradation
+PWY-6518	Fatty Acid and Lipid Degradation
+PWY-6519	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-6523	Inorganic Nutrient Metabolism
+PWY-6526	Secondary Metabolite Degradation
+PWY-6529	Respiration
+PWY-6530	Respiration
+PWY-6532	Aromatic Compound Degradation
+PWY-6533	Aromatic Compound Degradation
+PWY-6534	Aromatic Compound Degradation
+PWY-6535	Amine and Polyamine Degradation
+PWY-6536	Amine and Polyamine Degradation
+PWY-6537	Amine and Polyamine Degradation
+PWY-6538	Secondary Metabolite Degradation
+PWY-6540	Secondary Metabolite Biosynthesis
+PWY-6543	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-6545	Nucleoside and Nucleotide Biosynthesis
+PWY-6550	Aromatic Compound Degradation
+PWY-6556	Nucleoside and Nucleotide Degradation
+PWY-6559	Amine and Polyamine Biosynthesis
+PWY-6562	Amine and Polyamine Biosynthesis
+PWY-6565	Amine and Polyamine Biosynthesis
+PWY-6572	Polymeric Compound Degradation
+PWY-6574	Secondary Metabolite Biosynthesis
+PWY-6578	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-6580	Fatty Acid and Lipid Biosynthesis
+PWY-6581	Secondary Metabolite Biosynthesis
+PWY-6583	Fermentation
+PWY-6587	Fermentation
+PWY-6588	Fermentation
+PWY-6590	Fermentation
+PWY-6591	Inorganic Nutrient Metabolism
+PWY-6592	Inorganic Nutrient Metabolism
+PWY-6593	Inorganic Nutrient Metabolism
+PWY-6594	Fermentation
+PWY-6598	Fatty Acid and Lipid Biosynthesis
+PWY-6599	Nucleoside and Nucleotide Biosynthesis
+PWY-66	Carbohydrate Biosynthesis
+PWY-6604	Fermentation
+PWY-6605	Nucleoside and Nucleotide Biosynthesis
+PWY-6608	Nucleoside and Nucleotide Degradation
+PWY-6609	Nucleoside and Nucleotide Biosynthesis
+PWY-6610	Nucleoside and Nucleotide Biosynthesis
+PWY-6611	Nucleoside and Nucleotide Biosynthesis
+PWY-6612	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-6613	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-6614	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-6616	Inorganic Nutrient Metabolism
+PWY-6617	Nucleoside and Nucleotide Degradation
+PWY-6618	Nucleoside and Nucleotide Biosynthesis
+PWY-6619	Nucleoside and Nucleotide Biosynthesis
+PWY-6620	Nucleoside and Nucleotide Biosynthesis
+PWY-6622	Carbohydrate Biosynthesis
+PWY-6626	Cell Structure Biosynthesis
+PWY-6627	Secondary Metabolite Biosynthesis
+PWY-6628	Amino Acid Biosynthesis
+PWY-6629	Amino Acid Biosynthesis
+PWY-6630	Amino Acid Biosynthesis
+PWY-6632	Secondary Metabolite Degradation
+PWY-6633	Secondary Metabolite Degradation
+PWY-6634	Inorganic Nutrient Metabolism
+PWY-6637	Inorganic Nutrient Metabolism
+PWY-6638	Inorganic Nutrient Metabolism
+PWY-6640	Aromatic Compound Degradation
+PWY-6641	Inorganic Nutrient Metabolism
+PWY-6642	Inorganic Nutrient Metabolism
+PWY-6643	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-6644	Secondary Metabolite Biosynthesis
+PWY-6646	fluoroacetate degradation
+PWY-6648	Fatty Acid and Lipid Biosynthesis
+PWY-6649	Carboxylate Degradation
+PWY-6654	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-6655	Carbohydrate Biosynthesis
+PWY-6657	Storage Compound Biosynthesis
+PWY-6658	Carbohydrate Biosynthesis
+PWY-6660	Secondary Metabolite Biosynthesis
+PWY-6661	Secondary Metabolite Biosynthesis
+PWY-6662	Secondary Metabolite Biosynthesis
+PWY-6664	Metabolic Regulator Biosynthesis
+PWY-6666	Secondary Metabolite Biosynthesis
+PWY-6670	Secondary Metabolite Degradation
+PWY-6672	Secondary Metabolite Degradation
+PWY-6675	Inorganic Nutrient Metabolism
+PWY-6676	Inorganic Nutrient Metabolism
+PWY-6677	Inorganic Nutrient Metabolism
+PWY-6679	Secondary Metabolite Biosynthesis
+PWY-6682	Secondary Metabolite Biosynthesis
+PWY-6683	Inorganic Nutrient Metabolism
+PWY-6685	Metabolic Regulator Biosynthesis
+PWY-6686	Metabolic Regulator Biosynthesis
+PWY-6687	Metabolic Regulator Biosynthesis
+PWY-6690	Aromatic Compound Degradation
+PWY-6692	Inorganic Nutrient Metabolism
+PWY-6694	Carboxylate Degradation
+PWY-6695	Carboxylate Degradation
+PWY-6696	Carboxylate Degradation
+PWY-6697	Carboxylate Degradation
+PWY-6698	Carboxylate Degradation
+PWY-6700	Nucleic Acid Processing
+PWY-6703	Secondary Metabolite Biosynthesis
+PWY-6707	Aromatic Compound Biosynthesis
+PWY-6708	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-6711	Nucleic Acid Processing
+PWY-6713	Carbohydrate Degradation
+PWY-6714	Carbohydrate Degradation
+PWY-6717	Polymeric Compound Degradation
+PWY-6718	Inorganic Nutrient Metabolism
+PWY-6720	Secondary Metabolite Biosynthesis
+PWY-6721	Secondary Metabolite Biosynthesis
+PWY-6722	Secondary Metabolite Biosynthesis
+PWY-6728	methylaspartate cycle
+PWY-6730	Other Biosynthesis
+PWY-6731	Polymeric Compound Degradation
+PWY-6735	Polymeric Compound Degradation
+PWY-6737	Polymeric Compound Degradation
+PWY-6742	C1 Compound Utilization and Assimilation
+PWY-6744	Hydrogen Production
+PWY-6748	Inorganic Nutrient Metabolism
+PWY-6749	Carbohydrate Biosynthesis
+PWY-6751	Hydrogen Production
+PWY-6753	Nucleoside and Nucleotide Degradation
+PWY-6754	Nucleoside and Nucleotide Degradation
+PWY-6756	Nucleoside and Nucleotide Degradation
+PWY-6758	Hydrogen Production
+PWY-6759	Hydrogen Production
+PWY-6760	Carbohydrate Degradation
+PWY-6765	Hydrogen Production
+PWY-6767	Secondary Metabolite Biosynthesis
+PWY-6771	Polymeric Compound Degradation
+PWY-6772	Hydrogen Production
+PWY-6773	Carbohydrate Biosynthesis
+PWY-6778	Carbohydrate Degradation
+PWY-6780	Hydrogen Production
+PWY-6781	Aromatic Compound Degradation
+PWY-6784	Polymeric Compound Degradation
+PWY-6785	Hydrogen Production
+PWY-6789	Polymeric Compound Degradation
+PWY-6790	Polymeric Compound Degradation
+PWY-6794	Nucleoside and Nucleotide Biosynthesis
+PWY-6795	Secondary Metabolite Biosynthesis
+PWY-6797	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-6805	Polymeric Compound Degradation
+PWY-6806	Secondary Metabolite Degradation
+PWY-6808	Secondary Metabolite Biosynthesis
+PWY-681	Aromatic Compound Degradation
+PWY-6813	Polymeric Compound Degradation
+PWY-6815	Polymeric Compound Degradation
+PWY-6816	Polymeric Compound Degradation
+PWY-6817	Polymeric Compound Degradation
+PWY-6818	Fatty Acid and Lipid Biosynthesis
+PWY-6821	Polymeric Compound Degradation
+PWY-6822	Polymeric Compound Degradation
+PWY-6823	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-6825	Fatty Acid and Lipid Biosynthesis
+PWY-6826	Fatty Acid and Lipid Biosynthesis
+PWY-6827	Polymeric Compound Degradation
+PWY-6828	Antibiotic Resistance
+PWY-6830	Respiration
+PWY-6831	Secondary Metabolite Biosynthesis
+PWY-6832	Inorganic Nutrient Metabolism
+PWY-6834	Amine and Polyamine Biosynthesis
+PWY-6853	Hormone Biosynthesis
+PWY-6854	Hormone Biosynthesis
+PWY-6855	Polymeric Compound Degradation
+PWY-6863	Fermentation
+PWY-6871	3-methylbutanol biosynthesis (engineered)
+PWY-6873	long chain fatty acid ester synthesis (engineered)
+PWY-6876	isopropanol biosynthesis (engineered)
+PWY-6883	Fermentation
+PWY-6886	Fermentation
+PWY-6890	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-6891	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-6892	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-6893	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-6894	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-6895	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-6896	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-6897	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-6898	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-6899	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-6901	Carbohydrate Degradation
+PWY-6902	Polymeric Compound Degradation
+PWY-6906	Polymeric Compound Degradation
+PWY-6907	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-6910	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-6915	Secondary Metabolite Biosynthesis
+PWY-6919	Secondary Metabolite Biosynthesis
+PWY-6923	Secondary Metabolite Biosynthesis
+PWY-6928	Fatty Acid and Lipid Degradation
+PWY-6932	Inorganic Nutrient Metabolism
+PWY-6937	Fatty Acid and Lipid Degradation
+PWY-6938	NADH repair
+PWY-6941	Aromatic Compound Degradation
+PWY-6942	Carbohydrate Biosynthesis
+PWY-6943	Fatty Acid and Lipid Degradation
+PWY-6944	Fatty Acid and Lipid Degradation
+PWY-6945	Fatty Acid and Lipid Degradation
+PWY-6946	Fatty Acid and Lipid Degradation
+PWY-6947	Fatty Acid and Lipid Degradation
+PWY-6948	Fatty Acid and Lipid Degradation
+PWY-6952	Alcohol Degradation
+PWY-6953	Carbohydrate Biosynthesis
+PWY-6954	Aromatic Compound Degradation
+PWY-6955	Secondary Metabolite Biosynthesis
+PWY-6956	Aromatic Compound Degradation
+PWY-6957	Aromatic Compound Degradation
+PWY-6961	Carboxylate Degradation
+PWY-6962	Amine and Polyamine Degradation
+PWY-6964	Inorganic Nutrient Metabolism
+PWY-6965	Amine and Polyamine Degradation
+PWY-6966	C1 Compound Utilization and Assimilation
+PWY-6967	Amine and Polyamine Degradation
+PWY-6968	Amine and Polyamine Degradation
+PWY-6969	TCA cycle
+PWY-6971	Secondary Metabolite Biosynthesis
+PWY-6972	Interconversions
+PWY-6973	Carbohydrate Biosynthesis
+PWY-6974	Carbohydrate Biosynthesis
+PWY-6975	Secondary Metabolite Biosynthesis
+PWY-6976	Carbohydrate Biosynthesis
+PWY-6977	Secondary Metabolite Biosynthesis
+PWY-6978	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-6983	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-6984	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-6986	Polymeric Compound Degradation
+PWY-6987	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-6989	Secondary Metabolite Degradation
+PWY-6992	"1,5-anhydrofructose degradation"
+PWY-6993	Degradation/Utilization/Assimilation - Other
+PWY-6994	Amino Acid Biosynthesis
+PWY-6995	Secondary Metabolite Degradation
+PWY-6996	Secondary Metabolite Degradation
+PWY-6997	furfural degradation
+PWY-6998	Carbohydrate Biosynthesis
+PWY-6999	Secondary Metabolite Degradation
+PWY-7000	Secondary Metabolite Biosynthesis
+PWY-7002	Aromatic Compound Degradation
+PWY-7003	Fermentation
+PWY-7006	Aromatic Compound Degradation
+PWY-7007	methyl ketone biosynthesis (engineered)
+PWY-7008	Aromatic Compound Degradation
+PWY-7009	Aromatic Compound Degradation
+PWY-701	Amino Acid Degradation
+PWY-7010	Aromatic Compound Degradation
+PWY-7011	Aromatic Compound Degradation
+PWY-7013	Fermentation
+PWY-7014	Secondary Metabolite Biosynthesis
+PWY-7015	Secondary Metabolite Biosynthesis
+PWY-7016	Secondary Metabolite Biosynthesis
+PWY-7018	Secondary Metabolite Biosynthesis
+PWY-7019	Secondary Metabolite Biosynthesis
+PWY-7020	Secondary Metabolite Biosynthesis
+PWY-7021	Secondary Metabolite Biosynthesis
+PWY-7022	Secondary Metabolite Biosynthesis
+PWY-7024	C1 Compound Utilization and Assimilation
+PWY-7025	Secondary Metabolite Biosynthesis
+PWY-7026	Carbohydrate Biosynthesis
+PWY-7027	Carbohydrate Biosynthesis
+PWY-7028	Carbohydrate Biosynthesis
+PWY-7029	Carbohydrate Biosynthesis
+PWY-7031	Carbohydrate Biosynthesis
+PWY-7032	Carbohydrate Biosynthesis
+PWY-7036	Fatty Acid and Lipid Biosynthesis
+PWY-7037	Carbohydrate Biosynthesis
+PWY-7040	Secondary Metabolite Biosynthesis
+PWY-7044	Aromatic Compound Degradation
+PWY-7045	Secondary Metabolite Biosynthesis
+PWY-7046	Aromatic Compound Degradation
+PWY-7050	Fatty Acid and Lipid Biosynthesis
+PWY-7052	Storage Compound Biosynthesis
+PWY-7054	Metabolic Regulator Biosynthesis
+PWY-7072	Secondary Metabolite Biosynthesis
+PWY-7077	Carbohydrate Degradation
+PWY-7081	Aromatic Compound Degradation
+PWY-7082	Inorganic Nutrient Metabolism
+PWY-7084	Inorganic Nutrient Metabolism
+PWY-7085	Amine and Polyamine Degradation
+PWY-7087	Secondary Metabolite Biosynthesis
+PWY-7090	Carbohydrate Biosynthesis
+PWY-7094	Fatty Acid and Lipid Biosynthesis
+PWY-7096	Antibiotic Resistance
+PWY-7097	Aromatic Compound Degradation
+PWY-7098	Aromatic Compound Degradation
+PWY-7100	Secondary Metabolite Biosynthesis
+PWY-7102	bisabolene biosynthesis (engineered)
+PWY-7104	Carbohydrate Biosynthesis
+PWY-7106	Secondary Metabolite Biosynthesis
+PWY-7108	Secondary Metabolite Biosynthesis
+PWY-7109	Secondary Metabolite Biosynthesis
+PWY-7110	Secondary Metabolite Biosynthesis
+PWY-7111	Fermentation
+PWY-7124	Hormone Biosynthesis
+PWY-7126	ethylene biosynthesis IV (engineered)
+PWY-7127	Carbohydrate Biosynthesis
+PWY-7128	Degradation/Utilization/Assimilation - Other
+PWY-7130	Carbohydrate Degradation
+PWY-7131	Carbohydrate Biosynthesis
+PWY-7136	Secondary Metabolite Degradation
+PWY-7147	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-7153	Secondary Metabolite Biosynthesis
+PWY-7159	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-7165	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-7167	Amine and Polyamine Degradation
+PWY-7174	Amino Acid Biosynthesis
+PWY-7175	Secondary Metabolite Biosynthesis
+PWY-7176	Nucleoside and Nucleotide Biosynthesis
+PWY-7177	Nucleoside and Nucleotide Degradation
+PWY-7178	ethylene glycol biosynthesis (engineered)
+PWY-7179	Nucleoside and Nucleotide Degradation
+PWY-7180	Carbohydrate Degradation
+PWY-7181	Nucleoside and Nucleotide Degradation
+PWY-7183	Nucleoside and Nucleotide Biosynthesis
+PWY-7184	Nucleoside and Nucleotide Biosynthesis
+PWY-7185	Nucleoside and Nucleotide Degradation
+PWY-7187	Nucleoside and Nucleotide Biosynthesis
+PWY-7193	Nucleoside and Nucleotide Biosynthesis
+PWY-7194	Nucleoside and Nucleotide Biosynthesis
+PWY-7195	Nucleoside and Nucleotide Degradation
+PWY-7196	Nucleoside and Nucleotide Biosynthesis
+PWY-7197	Nucleoside and Nucleotide Biosynthesis
+PWY-7198	Nucleoside and Nucleotide Biosynthesis
+PWY-7199	Nucleoside and Nucleotide Biosynthesis
+PWY-7200	Nucleoside and Nucleotide Biosynthesis
+PWY-7205	Nucleoside and Nucleotide Biosynthesis
+PWY-7206	Nucleoside and Nucleotide Degradation
+PWY-7208	Nucleoside and Nucleotide Biosynthesis
+PWY-7209	Nucleoside and Nucleotide Degradation
+PWY-721	Aromatic Compound Degradation
+PWY-7210	Nucleoside and Nucleotide Biosynthesis
+PWY-7211	Nucleoside and Nucleotide Biosynthesis
+PWY-7216	Storage Compound Biosynthesis
+PWY-7218	Storage Compound Biosynthesis
+PWY-7219	Nucleoside and Nucleotide Biosynthesis
+PWY-722	Aromatic Compound Degradation
+PWY-7220	Nucleoside and Nucleotide Biosynthesis
+PWY-7221	Nucleoside and Nucleotide Biosynthesis
+PWY-7222	Nucleoside and Nucleotide Biosynthesis
+PWY-7224	Nucleoside and Nucleotide Biosynthesis
+PWY-7226	Nucleoside and Nucleotide Biosynthesis
+PWY-7227	Nucleoside and Nucleotide Biosynthesis
+PWY-7228	Nucleoside and Nucleotide Biosynthesis
+PWY-7229	Nucleoside and Nucleotide Biosynthesis
+PWY-7234	Nucleoside and Nucleotide Biosynthesis
+PWY-7236	Secondary Metabolite Biosynthesis
+PWY-7237	Secondary Metabolite Degradation
+PWY-7241	Secondary Metabolite Degradation
+PWY-7242	Secondary Metabolite Degradation
+PWY-7246	Polymeric Compound Degradation
+PWY-7247	Secondary Metabolite Degradation
+PWY-7248	Polymeric Compound Degradation
+PWY-7250	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-7254	TCA cycle
+PWY-7255	Secondary Metabolite Biosynthesis
+PWY-7274	Secondary Metabolite Biosynthesis
+PWY-7275	Amino Acid Biosynthesis
+PWY-7285	Nucleic Acid Processing
+PWY-7286	Nucleic Acid Processing
+PWY-7287	Secondary Metabolite Biosynthesis
+PWY-7289	Amino Acid Biosynthesis
+PWY-7290	Cell Structure Biosynthesis
+PWY-7294	Carbohydrate Degradation
+PWY-7295	Carbohydrate Degradation
+PWY-7301	Carbohydrate Biosynthesis
+PWY-7303	Aromatic Compound Biosynthesis
+PWY-7304	Secondary Metabolite Biosynthesis
+PWY-7308	Degradation/Utilization/Assimilation - Other
+PWY-7309	Degradation/Utilization/Assimilation - Other
+PWY-7310	Carboxylate Degradation
+PWY-7312	Carbohydrate Biosynthesis
+PWY-7315	Carbohydrate Biosynthesis
+PWY-7316	Carbohydrate Biosynthesis
+PWY-7317	Carbohydrate Biosynthesis
+PWY-7318	Carbohydrate Biosynthesis
+PWY-7323	Carbohydrate Biosynthesis
+PWY-7328	Carbohydrate Biosynthesis
+PWY-7330	Carbohydrate Biosynthesis
+PWY-7331	Carbohydrate Biosynthesis
+PWY-7332	Carbohydrate Biosynthesis
+PWY-7333	Carbohydrate Biosynthesis
+PWY-7334	Carbohydrate Biosynthesis
+PWY-7335	Carbohydrate Biosynthesis
+PWY-7336	Carbohydrate Biosynthesis
+PWY-7343	Carbohydrate Biosynthesis
+PWY-7344	Carbohydrate Biosynthesis
+PWY-7346	Carbohydrate Biosynthesis
+PWY-7347	Carbohydrate Biosynthesis
+PWY-7352	Secondary Metabolite Biosynthesis
+PWY-7354	Secondary Metabolite Biosynthesis
+PWY-7355	Secondary Metabolite Biosynthesis
+PWY-7356	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-7367	Fatty Acid and Lipid Degradation
+PWY-7369	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-7371	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-7372	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-7373	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-7374	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-7376	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-7377	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-7378	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-7380	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-7385	Fermentation
+PWY-7387	Inorganic Nutrient Metabolism
+PWY-7391	Secondary Metabolite Biosynthesis
+PWY-7392	Secondary Metabolite Biosynthesis
+PWY-7393	Secondary Metabolite Biosynthesis
+PWY-7394	Aromatic Compound Degradation
+PWY-7395	Carbohydrate Degradation
+PWY-7396	Fermentation
+PWY-7398	Secondary Metabolite Biosynthesis
+PWY-7399	Inorganic Nutrient Metabolism
+PWY-7400	Amino Acid Biosynthesis
+PWY-7401	Fermentation
+PWY-7402	Fermentation
+PWY-7403	Aromatic Compound Degradation
+PWY-7405	Secondary Metabolite Biosynthesis
+PWY-7407	Secondary Metabolite Biosynthesis
+PWY-741	Aromatic Compound Degradation
+PWY-7412	Secondary Metabolite Biosynthesis
+PWY-7413	Carbohydrate Biosynthesis
+PWY-7414	Carbohydrate Biosynthesis
+PWY-7415	Secondary Metabolite Biosynthesis
+PWY-7419	Secondary Metabolite Biosynthesis
+PWY-7421	Secondary Metabolite Biosynthesis
+PWY-7422	Secondary Metabolite Biosynthesis
+PWY-7425	Chlorinated Compound Degradation
+PWY-7428	Chlorinated Compound Degradation
+PWY-7429	Respiration
+PWY-743	Degradation/Utilization/Assimilation - Other
+PWY-7431	Amine and Polyamine Degradation
+PWY-7438	Carbohydrate Biosynthesis
+PWY-7439	Carbohydrate Biosynthesis
+PWY-7440	Carbohydrate Biosynthesis
+PWY-7441	Secondary Metabolite Biosynthesis
+PWY-7446	Secondary Metabolite Degradation
+PWY-7447	Inorganic Nutrient Metabolism
+PWY-7456	Polymeric Compound Degradation
+PWY-7457	Inorganic Nutrient Metabolism
+PWY-7459	Carbohydrate Degradation
+PWY-7462	Inorganic Nutrient Metabolism
+PWY-7465	Inorganic Nutrient Metabolism
+PWY-7467	Cell Structure Biosynthesis
+PWY-7469	Aromatic Compound Degradation
+PWY-7470	Fatty Acid and Lipid Biosynthesis
+PWY-7471	Amine and Polyamine Degradation
+PWY-7472	Amine and Polyamine Degradation
+PWY-7480	Aromatic Compound Degradation
+PWY-7482	Secondary Metabolite Biosynthesis
+PWY-7483	Secondary Metabolite Biosynthesis
+PWY-7485	Secondary Metabolite Biosynthesis
+PWY-7496	Chlorinated Compound Degradation
+PWY-7509	Fatty Acid and Lipid Biosynthesis
+PWY-7510	Secondary Metabolite Biosynthesis
+PWY-7512	Chlorinated Compound Degradation
+PWY-7513	Secondary Metabolite Biosynthesis
+PWY-7514	Amino Acid Degradation
+PWY-7515	Amino Acid Degradation
+PWY-7516	Secondary Metabolite Degradation
+PWY-7521	Aromatic Compound Degradation
+PWY-7524	Secondary Metabolite Biosynthesis
+PWY-7527	Amino Acid Biosynthesis
+PWY-7528	Amino Acid Biosynthesis
+PWY-7529	Carbohydrate Biosynthesis
+PWY-7530	Cell Structure Biosynthesis
+PWY-7531	Secondary Metabolite Biosynthesis
+PWY-7536	Secondary Metabolite Biosynthesis
+PWY-7539	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-7541	Fermentation
+PWY-7544	Respiration
+PWY-7545	Respiration
+PWY-7547	Secondary Metabolite Biosynthesis
+PWY-7548	Secondary Metabolite Biosynthesis
+PWY-7552	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-7554	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-7557	Aromatic Compound Degradation
+PWY-7560	Secondary Metabolite Biosynthesis
+PWY-7562	Carbohydrate Degradation
+PWY-7564	Secondary Metabolite Biosynthesis
+PWY-7566	Secondary Metabolite Degradation
+PWY-7568	Carbohydrate Degradation
+PWY-7569	Secondary Metabolite Biosynthesis
+PWY-7570	Secondary Metabolite Biosynthesis
+PWY-7573	Carbohydrate Biosynthesis
+PWY-7574	Carboxylate Degradation
+PWY-7575	Secondary Metabolite Biosynthesis
+PWY-7576	Inorganic Nutrient Metabolism
+PWY-7578	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-7579	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-7580	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-7581	Carbohydrate Degradation
+PWY-7582	Degradation/Utilization/Assimilation - Other
+PWY-7583	Fatty Acid and Lipid Biosynthesis
+PWY-7585	Fatty Acid and Lipid Biosynthesis
+PWY-7586	Carbohydrate Degradation
+PWY-7587	Fatty Acid and Lipid Biosynthesis
+PWY-7588	Fatty Acid and Lipid Biosynthesis
+PWY-7589	Fatty Acid and Lipid Biosynthesis
+PWY-7591	Secondary Metabolite Biosynthesis
+PWY-7593	Fatty Acid and Lipid Biosynthesis
+PWY-7594	Fatty Acid and Lipid Biosynthesis
+PWY-7595	Fatty Acid and Lipid Biosynthesis
+PWY-7596	Fatty Acid and Lipid Biosynthesis
+PWY-7598	Fatty Acid and Lipid Biosynthesis
+PWY-761	Secondary Metabolite Biosynthesis
+PWY-7610	Carbohydrate Biosynthesis
+PWY-7613	Carbohydrate Biosynthesis
+PWY-7616	Alcohol Degradation
+PWY-7620	Aromatic Compound Degradation
+PWY-7621	Secondary Metabolite Biosynthesis
+PWY-7622	Carbohydrate Biosynthesis
+PWY-7623	Secondary Metabolite Biosynthesis
+PWY-7624	Secondary Metabolite Biosynthesis
+PWY-7626	Secondary Metabolite Biosynthesis
+PWY-7627	Aromatic Compound Degradation
+PWY-7628	Aromatic Compound Degradation
+PWY-7637	Secondary Metabolite Biosynthesis
+PWY-7638	Secondary Metabolite Biosynthesis
+PWY-7639	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY-7641	Fatty Acid and Lipid Biosynthesis
+PWY-7644	Polymeric Compound Degradation
+PWY-7645	Polymeric Compound Degradation
+PWY-7646	Polymeric Compound Degradation
+PWY-7647	Polymeric Compound Degradation
+PWY-7651	Polymeric Compound Degradation
+PWY-7652	Secondary Metabolite Degradation
+PWY-7657	Carbohydrate Biosynthesis
+PWY-7658	Carbohydrate Biosynthesis
+PWY-7661	Carbohydrate Biosynthesis
+PWY-7663	Fatty Acid and Lipid Biosynthesis
+PWY-7664	Fatty Acid and Lipid Biosynthesis
+PWY-7666	Fatty Acid and Lipid Biosynthesis
+PWY-7671	Secondary Metabolite Biosynthesis
+PWY-7674	Carbohydrate Biosynthesis
+PWY-7675	Cell Structure Biosynthesis
+PWY-7676	Cell Structure Biosynthesis
+PWY-7677	Secondary Metabolite Biosynthesis
+PWY-804	Fermentation
+PWY-81	Aromatic Compound Degradation
+PWY-822	Carbohydrate Biosynthesis
+PWY-841	Nucleoside and Nucleotide Biosynthesis
+PWY-881	Metabolic Regulator Biosynthesis
+PWY-922	Secondary Metabolite Biosynthesis
+PWY-981	Aromatic Compound Biosynthesis
+PWY0-1021	Amino Acid Biosynthesis
+PWY0-1061	Amino Acid Biosynthesis
+PWY0-1182	Carbohydrate Degradation
+PWY0-1221	Amine and Polyamine Degradation
+PWY0-1241	Carbohydrate Biosynthesis
+PWY0-1261	Secondary Metabolite Degradation
+PWY0-1264	Fatty Acid and Lipid Biosynthesis
+PWY0-1275	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY0-1277	Aromatic Compound Degradation
+PWY0-1280	Alcohol Degradation
+PWY0-1295	Nucleoside and Nucleotide Degradation
+PWY0-1296	Nucleoside and Nucleotide Degradation
+PWY0-1297	Nucleoside and Nucleotide Degradation
+PWY0-1298	Nucleoside and Nucleotide Degradation
+PWY0-1299	Acid Resistance
+PWY0-1300	Carbohydrate Degradation
+PWY0-1301	Carbohydrate Degradation
+PWY0-1303	Amine and Polyamine Biosynthesis
+PWY0-1305	Amino Acid Degradation
+PWY0-1306	Secondary Metabolite Degradation
+PWY0-1309	Carbohydrate Degradation
+PWY0-1312	Fermentation
+PWY0-1313	Carboxylate Degradation
+PWY0-1314	Carbohydrate Degradation
+PWY0-1315	Aldehyde Degradation
+PWY0-1317	Aldehyde Degradation
+PWY0-1319	Fatty Acid and Lipid Biosynthesis
+PWY0-1321	Inorganic Nutrient Metabolism
+PWY0-1324	Carbohydrate Degradation
+PWY0-1325	Amino Acid Biosynthesis
+PWY0-1329	Respiration
+PWY0-1334	Respiration
+PWY0-1335	Respiration
+PWY0-1336	Respiration
+PWY0-1337	Fatty Acid and Lipid Degradation
+PWY0-1338	Cell Structure Biosynthesis
+PWY0-1347	Respiration
+PWY0-1348	Respiration
+PWY0-1352	Inorganic Nutrient Metabolism
+PWY0-1353	Respiration
+PWY0-1355	Respiration
+PWY0-1356	Respiration
+PWY0-1391	Nucleoside and Nucleotide Degradation
+PWY0-1415	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY0-1433	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY0-1465	Carboxylate Degradation
+PWY0-1466	Carbohydrate Degradation
+PWY0-1471	Nucleoside and Nucleotide Degradation
+PWY0-1477	Amine and Polyamine Degradation
+PWY0-1479	Nucleic Acid Processing
+PWY0-1507	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY0-1517	sedoheptulose bisphosphate bypass
+PWY0-1527	Secondary Metabolite Degradation
+PWY0-1533	Inorganic Nutrient Metabolism
+PWY0-1534	Inorganic Nutrient Metabolism
+PWY0-1535	Amino Acid Degradation
+PWY0-1544	Respiration
+PWY0-1546	Polymeric Compound Degradation
+PWY0-1554	Nucleic Acid Processing
+PWY0-1561	Respiration
+PWY0-1565	Respiration
+PWY0-1567	Respiration
+PWY0-1568	Respiration
+PWY0-1569	Secondary Metabolite Degradation
+PWY0-1576	Respiration
+PWY0-1577	Respiration
+PWY0-1578	Respiration
+PWY0-1581	Inorganic Nutrient Metabolism
+PWY0-1582	Respiration
+PWY0-1584	Inorganic Nutrient Metabolism
+PWY0-1586	Cell Structure Biosynthesis
+PWY0-162	Nucleoside and Nucleotide Biosynthesis
+PWY0-166	Nucleoside and Nucleotide Biosynthesis
+PWY0-301	Carboxylate Degradation
+PWY0-321	Aromatic Compound Degradation
+PWY0-381	Alcohol Degradation
+PWY0-41	Amine and Polyamine Degradation
+PWY0-42	Carboxylate Degradation
+PWY0-43	Carboxylate Degradation
+PWY0-44	Carbohydrate Degradation
+PWY0-461	Amino Acid Degradation
+PWY0-501	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY0-521	Secondary Metabolite Degradation
+PWY0-522	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY0-541	Fatty Acid and Lipid Biosynthesis
+PWY0-662	Carbohydrate Biosynthesis
+PWY0-781	aspartate superpathway
+PWY0-823	Amino Acid Degradation
+PWY0-845	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY0-862	Fatty Acid and Lipid Biosynthesis
+PWY0-901	Amino Acid Biosynthesis
+PWY0-981	Inorganic Nutrient Metabolism
+PWY1-2	Amino Acid Degradation
+PWY1-3	Storage Compound Biosynthesis
+PWY1A0-6325	Secondary Metabolite Biosynthesis
+PWY1G-0	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY1G-1	mycothiol-mediated detoxification
+PWY1G-126	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY1G-170	C1 Compound Utilization and Assimilation
+PWY3DJ-11281	Fatty Acid and Lipid Biosynthesis
+PWY3O-246	Alcohol Degradation
+PWY3O-4106	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY3O-440	Fermentation
+PWY3O-450	Fatty Acid and Lipid Biosynthesis
+PWY490-3	Inorganic Nutrient Metabolism
+PWY490-4	Amino Acid Biosynthesis
+PWY4FS-7	Fatty Acid and Lipid Biosynthesis
+PWY4FS-8	Fatty Acid and Lipid Biosynthesis
+PWY5F9-12	Aromatic Compound Degradation
+PWY5F9-3233	Aromatic Compound Degradation
+PWY66-21	Alcohol Degradation
+PWY8J2-1	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PWY8J2-20	Secondary Metabolite Biosynthesis
+PWY8J2-22	Secondary Metabolite Biosynthesis
+PWYG-321	Fatty Acid and Lipid Biosynthesis
+PWYQT-4427	Fatty Acid and Lipid Biosynthesis
+PWYQT-4429	C1 Compound Utilization and Assimilation
+PYRIDNUCSAL-PWY	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PYRIDNUCSYN-PWY	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PYRIDOXSYN-PWY	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+PYRUVDEHYD-PWY	Acetyl-CoA Biosynthesis
+QUINATEDEG-PWY	Aromatic Compound Degradation
+REDCITCYC	TCA cycle
+RHAMCAT-PWY	Carbohydrate Degradation
+RIBITOLUTIL-PWY	Secondary Metabolite Degradation
+RIBOKIN-PWY	Carbohydrate Degradation
+RIBOSYN2-PWY	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+RUMP-PWY	C1 Compound Utilization and Assimilation
+SALVADEHYPOX-PWY	Nucleoside and Nucleotide Degradation
+SALVPURINE2-PWY	Nucleoside and Nucleotide Biosynthesis
+SAM-PWY	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+SER-GLYSYN-PWY	Amino Acid Biosynthesis
+SERDEG-PWY	Amino Acid Degradation
+SERSYN-PWY	Amino Acid Biosynthesis
+SHIKIMATEDEG-PWY	Aromatic Compound Degradation
+SO4ASSIM-PWY	Inorganic Nutrient Metabolism
+SORBDEG-PWY	Secondary Metabolite Degradation
+SUCROSEUTIL2-PWY	Carbohydrate Degradation
+SUCSYN-PWY	Carbohydrate Biosynthesis
+SUCUTIL-PWY	Carbohydrate Degradation
+SULFATE-CYS-PWY	Inorganic Nutrient Metabolism
+SULFMETII-PWY	Inorganic Nutrient Metabolism
+SULFUROX-PWY	Inorganic Nutrient Metabolism
+TAURINEDEG-PWY	Inorganic Nutrient Metabolism
+TCA	TCA cycle
+TCA-GLYOX-BYPASS	TCA cycle
+TEICHOICACID-PWY	Cell Structure Biosynthesis
+THIOREDOX-PWY	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+THIOSULFOX-PWY	Inorganic Nutrient Metabolism
+THISYN-PWY	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+THRDLCTCAT-PWY	Amino Acid Degradation
+THREOCAT-PWY	Amino Acid Degradation
+THREONINE-DEG2-PWY	Amino Acid Degradation
+THRESYN-PWY	Amino Acid Biosynthesis
+TOLSULFDEG-PWY	Aromatic Compound Degradation
+TOLUENE-DEG-2-OH-PWY	Aromatic Compound Degradation
+TOLUENE-DEG-3-OH-PWY	Aromatic Compound Degradation
+TOLUENE-DEG-4-OH-PWY	Aromatic Compound Degradation
+TOLUENE-DEG-CATECHOL-PWY	Aromatic Compound Degradation
+TOLUENE-DEG-DIOL-PWY	Aromatic Compound Degradation
+TREDEGLOW-PWY	Carbohydrate Degradation
+TREHALOSESYN-PWY	Metabolic Regulator Biosynthesis
+TRESYN-PWY	Metabolic Regulator Biosynthesis
+TRNA-CHARGING-PWY	Aminoacyl-tRNA Charging
+TRPCAT-PWY	Amino Acid Degradation
+TRPIAACAT-PWY	Hormone Biosynthesis
+TRPKYNCAT-PWY	Amino Acid Degradation
+TRPSYN-PWY	Amino Acid Biosynthesis
+TRYPDEG-PWY	Amino Acid Degradation
+TYRFUMCAT-PWY	Amino Acid Degradation
+TYRSYN	Amino Acid Biosynthesis
+UBISYN-PWY	"Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis"
+UDPNAGSYN-PWY	Carbohydrate Biosynthesis
+VALDEG-PWY	Amino Acid Degradation
+VALSYN-PWY	Amino Acid Biosynthesis
+XYLCAT-PWY	Carbohydrate Degradation
